@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HGO3107
 - 👀 I’m interested in Embedded System Design and Programing
-- 🌱 I’m currently working with PIC microcontrollers
 - 📫 How to reach me hgafaromotoba@gmail.com
 
 <!---
